@@ -1,2 +1,3 @@
 # qaf-blank-project
-automation project skaleton to start with
+
+automation project skeleton to start with
